@@ -54,4 +54,5 @@
   <li>Juan Huertas</li>
   <li>NeoxN3il</li>
   <li>Ayush Saini</li>
+  <li>Debajit Datta</li>
 </ol>
