@@ -1,7 +1,7 @@
-# Welcome to HacktoberFest 2019!
+# Welcome to HacktoberFest 2020!
 
 ### Important Notice
-#### Please don't forget to add your name in contributors.md file (https://github.com/HrithikMittal/Hacktoberfest2k19/blob/master/contributors.md)
+#### Please don't forget to add your name in contributors.md file (https://github.com/HrithikMittal/Hacktoberfest2k20/blob/master/contributors.md)
 
 ### How to do?
 Firstly you have to register here: https://hacktoberfest.digitalocean.com/
