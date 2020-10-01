@@ -55,4 +55,5 @@
   <li>NeoxN3il</li>
   <li>Ayush Saini</li>
   <li>Debajit Datta</li>
+  <li>Tripti Mishra</li>
 </ol>
