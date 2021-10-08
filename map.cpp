@@ -1,11 +1,9 @@
-#include<iostream>
 #include<bits/stdc++.h>
-#include<map>
 using namespace std;
 int main(){
     int t;
     cin>>t;
-    for(int r=0;r<t;r++){
+    while(t--){
         int n;
         cin>>n;
         map<int,int> mymap;
@@ -16,12 +14,11 @@ int main(){
             mymap[a]++;
 
         }
+       
         int count=0;
-        for(it=mymap.begin();it!=mymap.end();it++){
-            if(it->first!=0){
-                count++;
-            }
-        }
+
+        for(auto it:mp)if(it.first!=0)count++;
+       
         cout<<count<<endl;
     }
 
